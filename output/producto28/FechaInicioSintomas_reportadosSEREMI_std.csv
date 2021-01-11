@@ -1,579 +1,817 @@
 Region,Codigo region,Semana Epidemiologica,Casos confirmados
-Desconocido Arica y Parinacota,15,SE7,0.0
-Desconocido Tarapaca,01,SE7,0.0
-Desconocido Antofagasta,02,SE7,0.0
-Desconocido Atacama,03,SE7,0.0
-Desconocido Coquimbo,04,SE7,0.0
-Desconocido Valparaiso,05,SE7,0.0
-Desconocido Metropolitana,13,SE7,0.0
-Desconocido O’Higgins,06,SE7,0.0
-Desconocido Maule,07,SE7,0.0
-Desconocido Nuble,16,SE7,0.0
-Desconocido Biobio,08,SE7,0.0
-Desconocido Araucania,09,SE7,0.0
-Desconocido Los Rios,14,SE7,0.0
-Desconocido Los Lagos,10,SE7,0.0
-Desconocido Aysen,11,SE7,0.0
-Desconocido Magallanes,12,SE7,0.0
-Desconocido SEREMI,0,SE7,0.0
-Desconocido Arica y Parinacota,15,SE8,0.0
-Desconocido Tarapaca,01,SE8,0.0
-Desconocido Antofagasta,02,SE8,0.0
-Desconocido Atacama,03,SE8,0.0
-Desconocido Coquimbo,04,SE8,0.0
-Desconocido Valparaiso,05,SE8,0.0
-Desconocido Metropolitana,13,SE8,0.0
-Desconocido O’Higgins,06,SE8,0.0
-Desconocido Maule,07,SE8,0.0
-Desconocido Nuble,16,SE8,0.0
-Desconocido Biobio,08,SE8,0.0
-Desconocido Araucania,09,SE8,0.0
-Desconocido Los Rios,14,SE8,0.0
-Desconocido Los Lagos,10,SE8,0.0
-Desconocido Aysen,11,SE8,0.0
-Desconocido Magallanes,12,SE8,0.0
-Desconocido SEREMI,0,SE8,0.0
-Desconocido Arica y Parinacota,15,SE9,0.0
-Desconocido Tarapaca,01,SE9,0.0
-Desconocido Antofagasta,02,SE9,0.0
-Desconocido Atacama,03,SE9,0.0
-Desconocido Coquimbo,04,SE9,0.0
-Desconocido Valparaiso,05,SE9,0.0
-Desconocido Metropolitana,13,SE9,0.0
-Desconocido O’Higgins,06,SE9,0.0
-Desconocido Maule,07,SE9,0.0
-Desconocido Nuble,16,SE9,0.0
-Desconocido Biobio,08,SE9,0.0
-Desconocido Araucania,09,SE9,0.0
-Desconocido Los Rios,14,SE9,0.0
-Desconocido Los Lagos,10,SE9,0.0
-Desconocido Aysen,11,SE9,0.0
-Desconocido Magallanes,12,SE9,0.0
-Desconocido SEREMI,0,SE9,0.0
-Desconocido Arica y Parinacota,15,SE10,0.0
-Desconocido Tarapaca,01,SE10,0.0
-Desconocido Antofagasta,02,SE10,0.0
-Desconocido Atacama,03,SE10,0.0
-Desconocido Coquimbo,04,SE10,0.0
-Desconocido Valparaiso,05,SE10,0.0
-Desconocido Metropolitana,13,SE10,0.0
-Desconocido O’Higgins,06,SE10,0.0
-Desconocido Maule,07,SE10,0.0
-Desconocido Nuble,16,SE10,0.0
-Desconocido Biobio,08,SE10,0.0
-Desconocido Araucania,09,SE10,0.0
-Desconocido Los Rios,14,SE10,0.0
-Desconocido Los Lagos,10,SE10,0.0
-Desconocido Aysen,11,SE10,0.0
-Desconocido Magallanes,12,SE10,0.0
-Desconocido SEREMI,0,SE10,0.0
-Desconocido Arica y Parinacota,15,SE11,0.0
-Desconocido Tarapaca,01,SE11,0.0
-Desconocido Antofagasta,02,SE11,0.0
-Desconocido Atacama,03,SE11,0.0
-Desconocido Coquimbo,04,SE11,0.0
-Desconocido Valparaiso,05,SE11,0.0
-Desconocido Metropolitana,13,SE11,5.0
-Desconocido O’Higgins,06,SE11,0.0
-Desconocido Maule,07,SE11,0.0
-Desconocido Nuble,16,SE11,0.0
-Desconocido Biobio,08,SE11,0.0
-Desconocido Araucania,09,SE11,0.0
-Desconocido Los Rios,14,SE11,1.0
-Desconocido Los Lagos,10,SE11,9.0
-Desconocido Aysen,11,SE11,1.0
-Desconocido Magallanes,12,SE11,0.0
-Desconocido SEREMI,0,SE11,0.0
-Desconocido Arica y Parinacota,15,SE12,0.0
-Desconocido Tarapaca,01,SE12,0.0
-Desconocido Antofagasta,02,SE12,0.0
-Desconocido Atacama,03,SE12,0.0
-Desconocido Coquimbo,04,SE12,1.0
-Desconocido Valparaiso,05,SE12,2.0
-Desconocido Metropolitana,13,SE12,9.0
-Desconocido O’Higgins,06,SE12,0.0
-Desconocido Maule,07,SE12,0.0
-Desconocido Nuble,16,SE12,0.0
-Desconocido Biobio,08,SE12,1.0
-Desconocido Araucania,09,SE12,0.0
-Desconocido Los Rios,14,SE12,0.0
-Desconocido Los Lagos,10,SE12,10.0
-Desconocido Aysen,11,SE12,0.0
-Desconocido Magallanes,12,SE12,0.0
-Desconocido SEREMI,0,SE12,2.0
-Desconocido Arica y Parinacota,15,SE13,0.0
-Desconocido Tarapaca,01,SE13,0.0
-Desconocido Antofagasta,02,SE13,0.0
-Desconocido Atacama,03,SE13,0.0
-Desconocido Coquimbo,04,SE13,0.0
-Desconocido Valparaiso,05,SE13,3.0
-Desconocido Metropolitana,13,SE13,19.0
-Desconocido O’Higgins,06,SE13,0.0
-Desconocido Maule,07,SE13,0.0
-Desconocido Nuble,16,SE13,0.0
-Desconocido Biobio,08,SE13,0.0
-Desconocido Araucania,09,SE13,1.0
-Desconocido Los Rios,14,SE13,0.0
-Desconocido Los Lagos,10,SE13,3.0
-Desconocido Aysen,11,SE13,0.0
-Desconocido Magallanes,12,SE13,0.0
-Desconocido SEREMI,0,SE13,8.0
-Desconocido Arica y Parinacota,15,SE14,0.0
-Desconocido Tarapaca,01,SE14,0.0
-Desconocido Antofagasta,02,SE14,0.0
-Desconocido Atacama,03,SE14,0.0
-Desconocido Coquimbo,04,SE14,3.0
-Desconocido Valparaiso,05,SE14,3.0
-Desconocido Metropolitana,13,SE14,53.0
-Desconocido O’Higgins,06,SE14,0.0
-Desconocido Maule,07,SE14,0.0
-Desconocido Nuble,16,SE14,0.0
-Desconocido Biobio,08,SE14,0.0
-Desconocido Araucania,09,SE14,0.0
-Desconocido Los Rios,14,SE14,0.0
-Desconocido Los Lagos,10,SE14,1.0
-Desconocido Aysen,11,SE14,0.0
-Desconocido Magallanes,12,SE14,0.0
-Desconocido SEREMI,0,SE14,1.0
-Desconocido Arica y Parinacota,15,SE15,1.0
-Desconocido Tarapaca,01,SE15,1.0
-Desconocido Antofagasta,02,SE15,0.0
-Desconocido Atacama,03,SE15,0.0
-Desconocido Coquimbo,04,SE15,1.0
-Desconocido Valparaiso,05,SE15,1.0
-Desconocido Metropolitana,13,SE15,176.0
-Desconocido O’Higgins,06,SE15,1.0
-Desconocido Maule,07,SE15,0.0
-Desconocido Nuble,16,SE15,0.0
-Desconocido Biobio,08,SE15,0.0
-Desconocido Araucania,09,SE15,0.0
-Desconocido Los Rios,14,SE15,1.0
-Desconocido Los Lagos,10,SE15,0.0
-Desconocido Aysen,11,SE15,0.0
-Desconocido Magallanes,12,SE15,0.0
-Desconocido SEREMI,0,SE15,1.0
-Desconocido Arica y Parinacota,15,SE16,0.0
-Desconocido Tarapaca,01,SE16,0.0
-Desconocido Antofagasta,02,SE16,1.0
-Desconocido Atacama,03,SE16,0.0
-Desconocido Coquimbo,04,SE16,1.0
-Desconocido Valparaiso,05,SE16,1.0
-Desconocido Metropolitana,13,SE16,358.0
-Desconocido O’Higgins,06,SE16,0.0
-Desconocido Maule,07,SE16,0.0
-Desconocido Nuble,16,SE16,0.0
-Desconocido Biobio,08,SE16,0.0
-Desconocido Araucania,09,SE16,0.0
-Desconocido Los Rios,14,SE16,1.0
-Desconocido Los Lagos,10,SE16,1.0
-Desconocido Aysen,11,SE16,0.0
-Desconocido Magallanes,12,SE16,0.0
-Desconocido SEREMI,0,SE16,1.0
-Desconocido Arica y Parinacota,15,SE17,0.0
-Desconocido Tarapaca,01,SE17,1.0
-Desconocido Antofagasta,02,SE17,5.0
-Desconocido Atacama,03,SE17,0.0
-Desconocido Coquimbo,04,SE17,1.0
-Desconocido Valparaiso,05,SE17,0.0
-Desconocido Metropolitana,13,SE17,524.0
-Desconocido O’Higgins,06,SE17,0.0
-Desconocido Maule,07,SE17,0.0
-Desconocido Nuble,16,SE17,0.0
-Desconocido Biobio,08,SE17,0.0
-Desconocido Araucania,09,SE17,0.0
-Desconocido Los Rios,14,SE17,0.0
-Desconocido Los Lagos,10,SE17,3.0
-Desconocido Aysen,11,SE17,0.0
-Desconocido Magallanes,12,SE17,0.0
-Desconocido SEREMI,0,SE17,2.0
-Desconocido Arica y Parinacota,15,SE18,0.0
-Desconocido Tarapaca,01,SE18,5.0
-Desconocido Antofagasta,02,SE18,0.0
-Desconocido Atacama,03,SE18,0.0
-Desconocido Coquimbo,04,SE18,0.0
-Desconocido Valparaiso,05,SE18,0.0
-Desconocido Metropolitana,13,SE18,628.0
-Desconocido O’Higgins,06,SE18,0.0
-Desconocido Maule,07,SE18,0.0
-Desconocido Nuble,16,SE18,0.0
-Desconocido Biobio,08,SE18,0.0
-Desconocido Araucania,09,SE18,0.0
-Desconocido Los Rios,14,SE18,0.0
-Desconocido Los Lagos,10,SE18,0.0
-Desconocido Aysen,11,SE18,0.0
-Desconocido Magallanes,12,SE18,0.0
-Desconocido SEREMI,0,SE18,3.0
-Desconocido Arica y Parinacota,15,SE19,0.0
-Desconocido Tarapaca,01,SE19,95.0
-Desconocido Antofagasta,02,SE19,1.0
-Desconocido Atacama,03,SE19,0.0
-Desconocido Coquimbo,04,SE19,1.0
-Desconocido Valparaiso,05,SE19,11.0
-Desconocido Metropolitana,13,SE19,1240.0
-Desconocido O’Higgins,06,SE19,1.0
-Desconocido Maule,07,SE19,0.0
-Desconocido Nuble,16,SE19,0.0
-Desconocido Biobio,08,SE19,2.0
-Desconocido Araucania,09,SE19,0.0
-Desconocido Los Rios,14,SE19,0.0
-Desconocido Los Lagos,10,SE19,1.0
-Desconocido Aysen,11,SE19,0.0
-Desconocido Magallanes,12,SE19,0.0
-Desconocido SEREMI,0,SE19,3.0
-Desconocido Arica y Parinacota,15,SE20,0.0
-Desconocido Tarapaca,01,SE20,29.0
-Desconocido Antofagasta,02,SE20,1.0
-Desconocido Atacama,03,SE20,0.0
-Desconocido Coquimbo,04,SE20,3.0
-Desconocido Valparaiso,05,SE20,7.0
-Desconocido Metropolitana,13,SE20,1958.0
-Desconocido O’Higgins,06,SE20,1.0
-Desconocido Maule,07,SE20,0.0
-Desconocido Nuble,16,SE20,0.0
-Desconocido Biobio,08,SE20,4.0
-Desconocido Araucania,09,SE20,0.0
-Desconocido Los Rios,14,SE20,0.0
-Desconocido Los Lagos,10,SE20,1.0
-Desconocido Aysen,11,SE20,0.0
-Desconocido Magallanes,12,SE20,0.0
-Desconocido SEREMI,0,SE20,0.0
-Desconocido Arica y Parinacota,15,SE21,0.0
-Desconocido Tarapaca,01,SE21,25.0
-Desconocido Antofagasta,02,SE21,0.0
-Desconocido Atacama,03,SE21,0.0
-Desconocido Coquimbo,04,SE21,10.0
-Desconocido Valparaiso,05,SE21,6.0
-Desconocido Metropolitana,13,SE21,2201.0
-Desconocido O’Higgins,06,SE21,2.0
-Desconocido Maule,07,SE21,0.0
-Desconocido Nuble,16,SE21,0.0
-Desconocido Biobio,08,SE21,6.0
-Desconocido Araucania,09,SE21,0.0
-Desconocido Los Rios,14,SE21,0.0
-Desconocido Los Lagos,10,SE21,2.0
-Desconocido Aysen,11,SE21,0.0
-Desconocido Magallanes,12,SE21,0.0
-Desconocido SEREMI,0,SE21,6.0
-Desconocido Arica y Parinacota,15,SE22,0.0
-Desconocido Tarapaca,01,SE22,25.0
-Desconocido Antofagasta,02,SE22,0.0
-Desconocido Atacama,03,SE22,0.0
-Desconocido Coquimbo,04,SE22,8.0
-Desconocido Valparaiso,05,SE22,35.0
-Desconocido Metropolitana,13,SE22,1488.0
-Desconocido O’Higgins,06,SE22,0.0
-Desconocido Maule,07,SE22,0.0
-Desconocido Nuble,16,SE22,0.0
-Desconocido Biobio,08,SE22,5.0
-Desconocido Araucania,09,SE22,0.0
-Desconocido Los Rios,14,SE22,1.0
-Desconocido Los Lagos,10,SE22,3.0
-Desconocido Aysen,11,SE22,0.0
-Desconocido Magallanes,12,SE22,0.0
-Desconocido SEREMI,0,SE22,3.0
-Desconocido Arica y Parinacota,15,SE23,0.0
-Desconocido Tarapaca,01,SE23,31.0
-Desconocido Antofagasta,02,SE23,5.0
-Desconocido Atacama,03,SE23,0.0
-Desconocido Coquimbo,04,SE23,9.0
-Desconocido Valparaiso,05,SE23,26.0
-Desconocido Metropolitana,13,SE23,1159.0
-Desconocido O’Higgins,06,SE23,6.0
-Desconocido Maule,07,SE23,0.0
-Desconocido Nuble,16,SE23,0.0
-Desconocido Biobio,08,SE23,9.0
-Desconocido Araucania,09,SE23,0.0
-Desconocido Los Rios,14,SE23,0.0
-Desconocido Los Lagos,10,SE23,1.0
-Desconocido Aysen,11,SE23,0.0
-Desconocido Magallanes,12,SE23,0.0
-Desconocido SEREMI,0,SE23,21.0
-Desconocido Arica y Parinacota,15,SE24,0.0
-Desconocido Tarapaca,01,SE24,25.0
-Desconocido Antofagasta,02,SE24,10.0
-Desconocido Atacama,03,SE24,0.0
-Desconocido Coquimbo,04,SE24,17.0
-Desconocido Valparaiso,05,SE24,34.0
-Desconocido Metropolitana,13,SE24,1191.0
-Desconocido O’Higgins,06,SE24,1.0
-Desconocido Maule,07,SE24,0.0
-Desconocido Nuble,16,SE24,0.0
-Desconocido Biobio,08,SE24,5.0
-Desconocido Araucania,09,SE24,0.0
-Desconocido Los Rios,14,SE24,1.0
-Desconocido Los Lagos,10,SE24,1.0
-Desconocido Aysen,11,SE24,0.0
-Desconocido Magallanes,12,SE24,1.0
-Desconocido SEREMI,0,SE24,0.0
-Desconocido Arica y Parinacota,15,SE25,0.0
-Desconocido Tarapaca,01,SE25,20.0
-Desconocido Antofagasta,02,SE25,41.0
-Desconocido Atacama,03,SE25,9.0
-Desconocido Coquimbo,04,SE25,11.0
-Desconocido Valparaiso,05,SE25,54.0
-Desconocido Metropolitana,13,SE25,1224.0
-Desconocido O’Higgins,06,SE25,6.0
-Desconocido Maule,07,SE25,0.0
-Desconocido Nuble,16,SE25,0.0
-Desconocido Biobio,08,SE25,27.0
-Desconocido Araucania,09,SE25,0.0
-Desconocido Los Rios,14,SE25,1.0
-Desconocido Los Lagos,10,SE25,3.0
-Desconocido Aysen,11,SE25,0.0
-Desconocido Magallanes,12,SE25,0.0
-Desconocido SEREMI,0,SE25,0.0
-Desconocido Arica y Parinacota,15,SE26,0.0
-Desconocido Tarapaca,01,SE26,22.0
-Desconocido Antofagasta,02,SE26,30.0
-Desconocido Atacama,03,SE26,1.0
-Desconocido Coquimbo,04,SE26,16.0
-Desconocido Valparaiso,05,SE26,46.0
-Desconocido Metropolitana,13,SE26,717.0
-Desconocido O’Higgins,06,SE26,7.0
-Desconocido Maule,07,SE26,0.0
-Desconocido Nuble,16,SE26,0.0
-Desconocido Biobio,08,SE26,34.0
-Desconocido Araucania,09,SE26,0.0
-Desconocido Los Rios,14,SE26,0.0
-Desconocido Los Lagos,10,SE26,3.0
-Desconocido Aysen,11,SE26,0.0
-Desconocido Magallanes,12,SE26,0.0
-Desconocido SEREMI,0,SE26,0.0
-Desconocido Arica y Parinacota,15,SE27,0.0
-Desconocido Tarapaca,01,SE27,15.0
-Desconocido Antofagasta,02,SE27,27.0
-Desconocido Atacama,03,SE27,2.0
-Desconocido Coquimbo,04,SE27,10.0
-Desconocido Valparaiso,05,SE27,48.0
-Desconocido Metropolitana,13,SE27,392.0
-Desconocido O’Higgins,06,SE27,2.0
-Desconocido Maule,07,SE27,0.0
-Desconocido Nuble,16,SE27,0.0
-Desconocido Biobio,08,SE27,7.0
-Desconocido Araucania,09,SE27,0.0
-Desconocido Los Rios,14,SE27,0.0
-Desconocido Los Lagos,10,SE27,4.0
-Desconocido Aysen,11,SE27,0.0
-Desconocido Magallanes,12,SE27,1.0
-Desconocido SEREMI,0,SE27,0.0
-Desconocido Arica y Parinacota,15,SE28,0.0
-Desconocido Tarapaca,01,SE28,17.0
-Desconocido Antofagasta,02,SE28,21.0
-Desconocido Atacama,03,SE28,1.0
-Desconocido Coquimbo,04,SE28,18.0
-Desconocido Valparaiso,05,SE28,25.0
-Desconocido Metropolitana,13,SE28,247.0
-Desconocido O’Higgins,06,SE28,6.0
-Desconocido Maule,07,SE28,0.0
-Desconocido Nuble,16,SE28,1.0
-Desconocido Biobio,08,SE28,11.0
-Desconocido Araucania,09,SE28,0.0
-Desconocido Los Rios,14,SE28,0.0
-Desconocido Los Lagos,10,SE28,12.0
-Desconocido Aysen,11,SE28,0.0
-Desconocido Magallanes,12,SE28,0.0
-Desconocido SEREMI,0,SE28,0.0
-Desconocido Arica y Parinacota,15,SE29,2.0
-Desconocido Tarapaca,01,SE29,33.0
-Desconocido Antofagasta,02,SE29,23.0
-Desconocido Atacama,03,SE29,3.0
-Desconocido Coquimbo,04,SE29,12.0
-Desconocido Valparaiso,05,SE29,23.0
-Desconocido Metropolitana,13,SE29,139.0
-Desconocido O’Higgins,06,SE29,2.0
-Desconocido Maule,07,SE29,0.0
-Desconocido Nuble,16,SE29,0.0
-Desconocido Biobio,08,SE29,11.0
-Desconocido Araucania,09,SE29,0.0
-Desconocido Los Rios,14,SE29,0.0
-Desconocido Los Lagos,10,SE29,4.0
-Desconocido Aysen,11,SE29,0.0
-Desconocido Magallanes,12,SE29,0.0
-Desconocido SEREMI,0,SE29,0.0
-Desconocido Arica y Parinacota,15,SE30,3.0
-Desconocido Tarapaca,01,SE30,34.0
-Desconocido Antofagasta,02,SE30,21.0
-Desconocido Atacama,03,SE30,2.0
-Desconocido Coquimbo,04,SE30,2.0
-Desconocido Valparaiso,05,SE30,10.0
-Desconocido Metropolitana,13,SE30,75.0
-Desconocido O’Higgins,06,SE30,5.0
-Desconocido Maule,07,SE30,0.0
-Desconocido Nuble,16,SE30,0.0
-Desconocido Biobio,08,SE30,10.0
-Desconocido Araucania,09,SE30,0.0
-Desconocido Los Rios,14,SE30,0.0
-Desconocido Los Lagos,10,SE30,0.0
-Desconocido Aysen,11,SE30,0.0
-Desconocido Magallanes,12,SE30,1.0
-Desconocido SEREMI,0,SE30,0.0
-Desconocido Arica y Parinacota,15,SE31,3.0
-Desconocido Tarapaca,01,SE31,17.0
-Desconocido Antofagasta,02,SE31,27.0
-Desconocido Atacama,03,SE31,0.0
-Desconocido Coquimbo,04,SE31,8.0
-Desconocido Valparaiso,05,SE31,10.0
-Desconocido Metropolitana,13,SE31,91.0
-Desconocido O’Higgins,06,SE31,0.0
-Desconocido Maule,07,SE31,0.0
-Desconocido Nuble,16,SE31,0.0
-Desconocido Biobio,08,SE31,10.0
-Desconocido Araucania,09,SE31,0.0
-Desconocido Los Rios,14,SE31,0.0
-Desconocido Los Lagos,10,SE31,1.0
-Desconocido Aysen,11,SE31,0.0
-Desconocido Magallanes,12,SE31,0.0
-Desconocido SEREMI,0,SE31,0.0
-Desconocido Arica y Parinacota,15,SE32,9.0
-Desconocido Tarapaca,01,SE32,16.0
-Desconocido Antofagasta,02,SE32,26.0
-Desconocido Atacama,03,SE32,11.0
-Desconocido Coquimbo,04,SE32,4.0
-Desconocido Valparaiso,05,SE32,10.0
-Desconocido Metropolitana,13,SE32,43.0
-Desconocido O’Higgins,06,SE32,1.0
-Desconocido Maule,07,SE32,0.0
-Desconocido Nuble,16,SE32,0.0
-Desconocido Biobio,08,SE32,6.0
-Desconocido Araucania,09,SE32,0.0
-Desconocido Los Rios,14,SE32,1.0
-Desconocido Los Lagos,10,SE32,0.0
-Desconocido Aysen,11,SE32,0.0
-Desconocido Magallanes,12,SE32,0.0
-Desconocido SEREMI,0,SE32,1.0
-Desconocido Arica y Parinacota,15,SE33,2.0
-Desconocido Tarapaca,01,SE33,13.0
-Desconocido Antofagasta,02,SE33,14.0
-Desconocido Atacama,03,SE33,2.0
-Desconocido Coquimbo,04,SE33,2.0
-Desconocido Valparaiso,05,SE33,6.0
-Desconocido Metropolitana,13,SE33,25.0
-Desconocido O’Higgins,06,SE33,0.0
-Desconocido Maule,07,SE33,0.0
-Desconocido Nuble,16,SE33,0.0
-Desconocido Biobio,08,SE33,2.0
-Desconocido Araucania,09,SE33,0.0
-Desconocido Los Rios,14,SE33,0.0
-Desconocido Los Lagos,10,SE33,0.0
-Desconocido Aysen,11,SE33,0.0
-Desconocido Magallanes,12,SE33,0.0
-Desconocido SEREMI,0,SE33,0.0
-Desconocido Arica y Parinacota,15,SE34,2.0
-Desconocido Tarapaca,01,SE34,11.0
-Desconocido Antofagasta,02,SE34,13.0
-Desconocido Atacama,03,SE34,3.0
-Desconocido Coquimbo,04,SE34,0.0
-Desconocido Valparaiso,05,SE34,11.0
-Desconocido Metropolitana,13,SE34,38.0
-Desconocido O’Higgins,06,SE34,0.0
-Desconocido Maule,07,SE34,1.0
-Desconocido Nuble,16,SE34,1.0
-Desconocido Biobio,08,SE34,6.0
-Desconocido Araucania,09,SE34,0.0
-Desconocido Los Rios,14,SE34,0.0
-Desconocido Los Lagos,10,SE34,0.0
-Desconocido Aysen,11,SE34,0.0
-Desconocido Magallanes,12,SE34,5.0
-Desconocido SEREMI,0,SE34,0.0
-Desconocido Arica y Parinacota,15,SE35,0.0
-Desconocido Tarapaca,01,SE35,13.0
-Desconocido Antofagasta,02,SE35,10.0
-Desconocido Atacama,03,SE35,1.0
-Desconocido Coquimbo,04,SE35,0.0
-Desconocido Valparaiso,05,SE35,13.0
-Desconocido Metropolitana,13,SE35,39.0
-Desconocido O’Higgins,06,SE35,5.0
-Desconocido Maule,07,SE35,0.0
-Desconocido Nuble,16,SE35,0.0
-Desconocido Biobio,08,SE35,7.0
-Desconocido Araucania,09,SE35,0.0
-Desconocido Los Rios,14,SE35,0.0
-Desconocido Los Lagos,10,SE35,2.0
-Desconocido Aysen,11,SE35,0.0
-Desconocido Magallanes,12,SE35,0.0
-Desconocido SEREMI,0,SE35,0.0
-Desconocido Arica y Parinacota,15,SE36,2.0
-Desconocido Tarapaca,01,SE36,10.0
-Desconocido Antofagasta,02,SE36,4.0
-Desconocido Atacama,03,SE36,1.0
-Desconocido Coquimbo,04,SE36,2.0
-Desconocido Valparaiso,05,SE36,12.0
-Desconocido Metropolitana,13,SE36,48.0
-Desconocido O’Higgins,06,SE36,2.0
-Desconocido Maule,07,SE36,0.0
-Desconocido Nuble,16,SE36,0.0
-Desconocido Biobio,08,SE36,1.0
-Desconocido Araucania,09,SE36,1.0
-Desconocido Los Rios,14,SE36,0.0
-Desconocido Los Lagos,10,SE36,2.0
-Desconocido Aysen,11,SE36,0.0
-Desconocido Magallanes,12,SE36,5.0
-Desconocido SEREMI,0,SE36,0.0
-Desconocido Arica y Parinacota,15,SE37,2.0
-Desconocido Tarapaca,01,SE37,15.0
-Desconocido Antofagasta,02,SE37,8.0
-Desconocido Atacama,03,SE37,1.0
-Desconocido Coquimbo,04,SE37,2.0
-Desconocido Valparaiso,05,SE37,11.0
-Desconocido Metropolitana,13,SE37,46.0
-Desconocido O’Higgins,06,SE37,2.0
-Desconocido Maule,07,SE37,0.0
-Desconocido Nuble,16,SE37,0.0
-Desconocido Biobio,08,SE37,0.0
-Desconocido Araucania,09,SE37,0.0
-Desconocido Los Rios,14,SE37,0.0
-Desconocido Los Lagos,10,SE37,1.0
-Desconocido Aysen,11,SE37,0.0
-Desconocido Magallanes,12,SE37,8.0
-Desconocido SEREMI,0,SE37,0.0
-Desconocido Arica y Parinacota,15,SE38,5.0
-Desconocido Tarapaca,01,SE38,40.0
-Desconocido Antofagasta,02,SE38,3.0
-Desconocido Atacama,03,SE38,0.0
-Desconocido Coquimbo,04,SE38,2.0
-Desconocido Valparaiso,05,SE38,8.0
-Desconocido Metropolitana,13,SE38,30.0
-Desconocido O’Higgins,06,SE38,4.0
-Desconocido Maule,07,SE38,0.0
-Desconocido Nuble,16,SE38,0.0
-Desconocido Biobio,08,SE38,1.0
-Desconocido Araucania,09,SE38,1.0
-Desconocido Los Rios,14,SE38,0.0
-Desconocido Los Lagos,10,SE38,1.0
-Desconocido Aysen,11,SE38,1.0
-Desconocido Magallanes,12,SE38,4.0
-Desconocido SEREMI,0,SE38,0.0
-Desconocido Arica y Parinacota,15,SE39,3.0
-Desconocido Tarapaca,01,SE39,64.0
-Desconocido Antofagasta,02,SE39,5.0
-Desconocido Atacama,03,SE39,2.0
-Desconocido Coquimbo,04,SE39,3.0
-Desconocido Valparaiso,05,SE39,9.0
-Desconocido Metropolitana,13,SE39,63.0
-Desconocido O’Higgins,06,SE39,3.0
-Desconocido Maule,07,SE39,2.0
-Desconocido Nuble,16,SE39,0.0
-Desconocido Biobio,08,SE39,7.0
-Desconocido Araucania,09,SE39,2.0
-Desconocido Los Rios,14,SE39,0.0
-Desconocido Los Lagos,10,SE39,3.0
-Desconocido Aysen,11,SE39,0.0
-Desconocido Magallanes,12,SE39,2.0
-Desconocido SEREMI,0,SE39,0.0
-Desconocido Arica y Parinacota,15,SE40,3.0
-Desconocido Tarapaca,01,SE40,16.0
-Desconocido Antofagasta,02,SE40,4.0
-Desconocido Atacama,03,SE40,0.0
-Desconocido Coquimbo,04,SE40,1.0
-Desconocido Valparaiso,05,SE40,14.0
-Desconocido Metropolitana,13,SE40,39.0
-Desconocido O’Higgins,06,SE40,2.0
-Desconocido Maule,07,SE40,0.0
-Desconocido Nuble,16,SE40,0.0
-Desconocido Biobio,08,SE40,1.0
-Desconocido Araucania,09,SE40,1.0
-Desconocido Los Rios,14,SE40,0.0
-Desconocido Los Lagos,10,SE40,3.0
-Desconocido Aysen,11,SE40,0.0
-Desconocido Magallanes,12,SE40,2.0
-Desconocido SEREMI,0,SE40,0.0
+Desconocido Arica y Parinacota,15,202007,0.0
+Desconocido Tarapaca,01,202007,0.0
+Desconocido Antofagasta,02,202007,0.0
+Desconocido Atacama,03,202007,0.0
+Desconocido Coquimbo,04,202007,0.0
+Desconocido Valparaiso,05,202007,0.0
+Desconocido Metropolitana,13,202007,0.0
+Desconocido O’Higgins,06,202007,0.0
+Desconocido Maule,07,202007,0.0
+Desconocido Nuble,16,202007,0.0
+Desconocido Biobio,08,202007,0.0
+Desconocido Araucania,09,202007,0.0
+Desconocido Los Rios,14,202007,0.0
+Desconocido Los Lagos,10,202007,0.0
+Desconocido Aysen,11,202007,0.0
+Desconocido Magallanes,12,202007,0.0
+Desconocido SEREMI,0,202007,0.0
+Desconocido Arica y Parinacota,15,202008,0.0
+Desconocido Tarapaca,01,202008,0.0
+Desconocido Antofagasta,02,202008,0.0
+Desconocido Atacama,03,202008,0.0
+Desconocido Coquimbo,04,202008,0.0
+Desconocido Valparaiso,05,202008,0.0
+Desconocido Metropolitana,13,202008,0.0
+Desconocido O’Higgins,06,202008,0.0
+Desconocido Maule,07,202008,0.0
+Desconocido Nuble,16,202008,0.0
+Desconocido Biobio,08,202008,0.0
+Desconocido Araucania,09,202008,0.0
+Desconocido Los Rios,14,202008,0.0
+Desconocido Los Lagos,10,202008,0.0
+Desconocido Aysen,11,202008,0.0
+Desconocido Magallanes,12,202008,0.0
+Desconocido SEREMI,0,202008,0.0
+Desconocido Arica y Parinacota,15,202009,0.0
+Desconocido Tarapaca,01,202009,0.0
+Desconocido Antofagasta,02,202009,0.0
+Desconocido Atacama,03,202009,0.0
+Desconocido Coquimbo,04,202009,0.0
+Desconocido Valparaiso,05,202009,0.0
+Desconocido Metropolitana,13,202009,0.0
+Desconocido O’Higgins,06,202009,0.0
+Desconocido Maule,07,202009,0.0
+Desconocido Nuble,16,202009,0.0
+Desconocido Biobio,08,202009,0.0
+Desconocido Araucania,09,202009,0.0
+Desconocido Los Rios,14,202009,0.0
+Desconocido Los Lagos,10,202009,0.0
+Desconocido Aysen,11,202009,0.0
+Desconocido Magallanes,12,202009,0.0
+Desconocido SEREMI,0,202009,0.0
+Desconocido Arica y Parinacota,15,202010,0.0
+Desconocido Tarapaca,01,202010,0.0
+Desconocido Antofagasta,02,202010,0.0
+Desconocido Atacama,03,202010,0.0
+Desconocido Coquimbo,04,202010,0.0
+Desconocido Valparaiso,05,202010,0.0
+Desconocido Metropolitana,13,202010,0.0
+Desconocido O’Higgins,06,202010,0.0
+Desconocido Maule,07,202010,0.0
+Desconocido Nuble,16,202010,0.0
+Desconocido Biobio,08,202010,0.0
+Desconocido Araucania,09,202010,0.0
+Desconocido Los Rios,14,202010,0.0
+Desconocido Los Lagos,10,202010,0.0
+Desconocido Aysen,11,202010,0.0
+Desconocido Magallanes,12,202010,0.0
+Desconocido SEREMI,0,202010,0.0
+Desconocido Arica y Parinacota,15,202011,0.0
+Desconocido Tarapaca,01,202011,0.0
+Desconocido Antofagasta,02,202011,0.0
+Desconocido Atacama,03,202011,0.0
+Desconocido Coquimbo,04,202011,0.0
+Desconocido Valparaiso,05,202011,0.0
+Desconocido Metropolitana,13,202011,4.0
+Desconocido O’Higgins,06,202011,0.0
+Desconocido Maule,07,202011,0.0
+Desconocido Nuble,16,202011,0.0
+Desconocido Biobio,08,202011,0.0
+Desconocido Araucania,09,202011,0.0
+Desconocido Los Rios,14,202011,1.0
+Desconocido Los Lagos,10,202011,9.0
+Desconocido Aysen,11,202011,1.0
+Desconocido Magallanes,12,202011,0.0
+Desconocido SEREMI,0,202011,0.0
+Desconocido Arica y Parinacota,15,202012,0.0
+Desconocido Tarapaca,01,202012,0.0
+Desconocido Antofagasta,02,202012,0.0
+Desconocido Atacama,03,202012,0.0
+Desconocido Coquimbo,04,202012,1.0
+Desconocido Valparaiso,05,202012,1.0
+Desconocido Metropolitana,13,202012,7.0
+Desconocido O’Higgins,06,202012,0.0
+Desconocido Maule,07,202012,0.0
+Desconocido Nuble,16,202012,0.0
+Desconocido Biobio,08,202012,1.0
+Desconocido Araucania,09,202012,0.0
+Desconocido Los Rios,14,202012,0.0
+Desconocido Los Lagos,10,202012,10.0
+Desconocido Aysen,11,202012,0.0
+Desconocido Magallanes,12,202012,0.0
+Desconocido SEREMI,0,202012,3.0
+Desconocido Arica y Parinacota,15,202013,0.0
+Desconocido Tarapaca,01,202013,0.0
+Desconocido Antofagasta,02,202013,0.0
+Desconocido Atacama,03,202013,0.0
+Desconocido Coquimbo,04,202013,0.0
+Desconocido Valparaiso,05,202013,3.0
+Desconocido Metropolitana,13,202013,14.0
+Desconocido O’Higgins,06,202013,0.0
+Desconocido Maule,07,202013,0.0
+Desconocido Nuble,16,202013,0.0
+Desconocido Biobio,08,202013,0.0
+Desconocido Araucania,09,202013,1.0
+Desconocido Los Rios,14,202013,0.0
+Desconocido Los Lagos,10,202013,2.0
+Desconocido Aysen,11,202013,0.0
+Desconocido Magallanes,12,202013,0.0
+Desconocido SEREMI,0,202013,4.0
+Desconocido Arica y Parinacota,15,202014,0.0
+Desconocido Tarapaca,01,202014,0.0
+Desconocido Antofagasta,02,202014,0.0
+Desconocido Atacama,03,202014,0.0
+Desconocido Coquimbo,04,202014,3.0
+Desconocido Valparaiso,05,202014,3.0
+Desconocido Metropolitana,13,202014,36.0
+Desconocido O’Higgins,06,202014,0.0
+Desconocido Maule,07,202014,0.0
+Desconocido Nuble,16,202014,0.0
+Desconocido Biobio,08,202014,0.0
+Desconocido Araucania,09,202014,0.0
+Desconocido Los Rios,14,202014,0.0
+Desconocido Los Lagos,10,202014,1.0
+Desconocido Aysen,11,202014,0.0
+Desconocido Magallanes,12,202014,0.0
+Desconocido SEREMI,0,202014,1.0
+Desconocido Arica y Parinacota,15,202015,0.0
+Desconocido Tarapaca,01,202015,1.0
+Desconocido Antofagasta,02,202015,0.0
+Desconocido Atacama,03,202015,0.0
+Desconocido Coquimbo,04,202015,0.0
+Desconocido Valparaiso,05,202015,1.0
+Desconocido Metropolitana,13,202015,172.0
+Desconocido O’Higgins,06,202015,1.0
+Desconocido Maule,07,202015,0.0
+Desconocido Nuble,16,202015,0.0
+Desconocido Biobio,08,202015,0.0
+Desconocido Araucania,09,202015,0.0
+Desconocido Los Rios,14,202015,1.0
+Desconocido Los Lagos,10,202015,0.0
+Desconocido Aysen,11,202015,0.0
+Desconocido Magallanes,12,202015,0.0
+Desconocido SEREMI,0,202015,2.0
+Desconocido Arica y Parinacota,15,202016,0.0
+Desconocido Tarapaca,01,202016,0.0
+Desconocido Antofagasta,02,202016,1.0
+Desconocido Atacama,03,202016,0.0
+Desconocido Coquimbo,04,202016,1.0
+Desconocido Valparaiso,05,202016,1.0
+Desconocido Metropolitana,13,202016,334.0
+Desconocido O’Higgins,06,202016,0.0
+Desconocido Maule,07,202016,0.0
+Desconocido Nuble,16,202016,0.0
+Desconocido Biobio,08,202016,0.0
+Desconocido Araucania,09,202016,0.0
+Desconocido Los Rios,14,202016,1.0
+Desconocido Los Lagos,10,202016,0.0
+Desconocido Aysen,11,202016,0.0
+Desconocido Magallanes,12,202016,0.0
+Desconocido SEREMI,0,202016,1.0
+Desconocido Arica y Parinacota,15,202017,0.0
+Desconocido Tarapaca,01,202017,1.0
+Desconocido Antofagasta,02,202017,5.0
+Desconocido Atacama,03,202017,0.0
+Desconocido Coquimbo,04,202017,1.0
+Desconocido Valparaiso,05,202017,0.0
+Desconocido Metropolitana,13,202017,436.0
+Desconocido O’Higgins,06,202017,0.0
+Desconocido Maule,07,202017,0.0
+Desconocido Nuble,16,202017,0.0
+Desconocido Biobio,08,202017,0.0
+Desconocido Araucania,09,202017,0.0
+Desconocido Los Rios,14,202017,0.0
+Desconocido Los Lagos,10,202017,1.0
+Desconocido Aysen,11,202017,0.0
+Desconocido Magallanes,12,202017,0.0
+Desconocido SEREMI,0,202017,1.0
+Desconocido Arica y Parinacota,15,202018,0.0
+Desconocido Tarapaca,01,202018,4.0
+Desconocido Antofagasta,02,202018,0.0
+Desconocido Atacama,03,202018,0.0
+Desconocido Coquimbo,04,202018,0.0
+Desconocido Valparaiso,05,202018,0.0
+Desconocido Metropolitana,13,202018,495.0
+Desconocido O’Higgins,06,202018,0.0
+Desconocido Maule,07,202018,0.0
+Desconocido Nuble,16,202018,0.0
+Desconocido Biobio,08,202018,0.0
+Desconocido Araucania,09,202018,0.0
+Desconocido Los Rios,14,202018,0.0
+Desconocido Los Lagos,10,202018,0.0
+Desconocido Aysen,11,202018,0.0
+Desconocido Magallanes,12,202018,0.0
+Desconocido SEREMI,0,202018,3.0
+Desconocido Arica y Parinacota,15,202019,0.0
+Desconocido Tarapaca,01,202019,94.0
+Desconocido Antofagasta,02,202019,1.0
+Desconocido Atacama,03,202019,0.0
+Desconocido Coquimbo,04,202019,1.0
+Desconocido Valparaiso,05,202019,8.0
+Desconocido Metropolitana,13,202019,732.0
+Desconocido O’Higgins,06,202019,1.0
+Desconocido Maule,07,202019,0.0
+Desconocido Nuble,16,202019,0.0
+Desconocido Biobio,08,202019,2.0
+Desconocido Araucania,09,202019,0.0
+Desconocido Los Rios,14,202019,0.0
+Desconocido Los Lagos,10,202019,1.0
+Desconocido Aysen,11,202019,0.0
+Desconocido Magallanes,12,202019,0.0
+Desconocido SEREMI,0,202019,1.0
+Desconocido Arica y Parinacota,15,202020,0.0
+Desconocido Tarapaca,01,202020,29.0
+Desconocido Antofagasta,02,202020,1.0
+Desconocido Atacama,03,202020,0.0
+Desconocido Coquimbo,04,202020,3.0
+Desconocido Valparaiso,05,202020,6.0
+Desconocido Metropolitana,13,202020,1599.0
+Desconocido O’Higgins,06,202020,1.0
+Desconocido Maule,07,202020,0.0
+Desconocido Nuble,16,202020,0.0
+Desconocido Biobio,08,202020,4.0
+Desconocido Araucania,09,202020,0.0
+Desconocido Los Rios,14,202020,0.0
+Desconocido Los Lagos,10,202020,1.0
+Desconocido Aysen,11,202020,0.0
+Desconocido Magallanes,12,202020,0.0
+Desconocido SEREMI,0,202020,0.0
+Desconocido Arica y Parinacota,15,202021,0.0
+Desconocido Tarapaca,01,202021,25.0
+Desconocido Antofagasta,02,202021,0.0
+Desconocido Atacama,03,202021,0.0
+Desconocido Coquimbo,04,202021,10.0
+Desconocido Valparaiso,05,202021,6.0
+Desconocido Metropolitana,13,202021,1763.0
+Desconocido O’Higgins,06,202021,2.0
+Desconocido Maule,07,202021,0.0
+Desconocido Nuble,16,202021,0.0
+Desconocido Biobio,08,202021,6.0
+Desconocido Araucania,09,202021,0.0
+Desconocido Los Rios,14,202021,0.0
+Desconocido Los Lagos,10,202021,2.0
+Desconocido Aysen,11,202021,0.0
+Desconocido Magallanes,12,202021,0.0
+Desconocido SEREMI,0,202021,5.0
+Desconocido Arica y Parinacota,15,202022,0.0
+Desconocido Tarapaca,01,202022,26.0
+Desconocido Antofagasta,02,202022,0.0
+Desconocido Atacama,03,202022,0.0
+Desconocido Coquimbo,04,202022,8.0
+Desconocido Valparaiso,05,202022,32.0
+Desconocido Metropolitana,13,202022,947.0
+Desconocido O’Higgins,06,202022,0.0
+Desconocido Maule,07,202022,0.0
+Desconocido Nuble,16,202022,0.0
+Desconocido Biobio,08,202022,5.0
+Desconocido Araucania,09,202022,0.0
+Desconocido Los Rios,14,202022,1.0
+Desconocido Los Lagos,10,202022,3.0
+Desconocido Aysen,11,202022,0.0
+Desconocido Magallanes,12,202022,0.0
+Desconocido SEREMI,0,202022,2.0
+Desconocido Arica y Parinacota,15,202023,0.0
+Desconocido Tarapaca,01,202023,30.0
+Desconocido Antofagasta,02,202023,5.0
+Desconocido Atacama,03,202023,0.0
+Desconocido Coquimbo,04,202023,9.0
+Desconocido Valparaiso,05,202023,24.0
+Desconocido Metropolitana,13,202023,791.0
+Desconocido O’Higgins,06,202023,6.0
+Desconocido Maule,07,202023,0.0
+Desconocido Nuble,16,202023,0.0
+Desconocido Biobio,08,202023,9.0
+Desconocido Araucania,09,202023,0.0
+Desconocido Los Rios,14,202023,0.0
+Desconocido Los Lagos,10,202023,1.0
+Desconocido Aysen,11,202023,0.0
+Desconocido Magallanes,12,202023,0.0
+Desconocido SEREMI,0,202023,22.0
+Desconocido Arica y Parinacota,15,202024,0.0
+Desconocido Tarapaca,01,202024,25.0
+Desconocido Antofagasta,02,202024,10.0
+Desconocido Atacama,03,202024,0.0
+Desconocido Coquimbo,04,202024,17.0
+Desconocido Valparaiso,05,202024,30.0
+Desconocido Metropolitana,13,202024,925.0
+Desconocido O’Higgins,06,202024,1.0
+Desconocido Maule,07,202024,0.0
+Desconocido Nuble,16,202024,0.0
+Desconocido Biobio,08,202024,4.0
+Desconocido Araucania,09,202024,0.0
+Desconocido Los Rios,14,202024,1.0
+Desconocido Los Lagos,10,202024,1.0
+Desconocido Aysen,11,202024,0.0
+Desconocido Magallanes,12,202024,1.0
+Desconocido SEREMI,0,202024,0.0
+Desconocido Arica y Parinacota,15,202025,0.0
+Desconocido Tarapaca,01,202025,20.0
+Desconocido Antofagasta,02,202025,41.0
+Desconocido Atacama,03,202025,9.0
+Desconocido Coquimbo,04,202025,10.0
+Desconocido Valparaiso,05,202025,52.0
+Desconocido Metropolitana,13,202025,961.0
+Desconocido O’Higgins,06,202025,5.0
+Desconocido Maule,07,202025,0.0
+Desconocido Nuble,16,202025,0.0
+Desconocido Biobio,08,202025,26.0
+Desconocido Araucania,09,202025,0.0
+Desconocido Los Rios,14,202025,1.0
+Desconocido Los Lagos,10,202025,2.0
+Desconocido Aysen,11,202025,0.0
+Desconocido Magallanes,12,202025,0.0
+Desconocido SEREMI,0,202025,0.0
+Desconocido Arica y Parinacota,15,202026,0.0
+Desconocido Tarapaca,01,202026,22.0
+Desconocido Antofagasta,02,202026,30.0
+Desconocido Atacama,03,202026,1.0
+Desconocido Coquimbo,04,202026,15.0
+Desconocido Valparaiso,05,202026,41.0
+Desconocido Metropolitana,13,202026,511.0
+Desconocido O’Higgins,06,202026,7.0
+Desconocido Maule,07,202026,0.0
+Desconocido Nuble,16,202026,0.0
+Desconocido Biobio,08,202026,31.0
+Desconocido Araucania,09,202026,0.0
+Desconocido Los Rios,14,202026,0.0
+Desconocido Los Lagos,10,202026,3.0
+Desconocido Aysen,11,202026,0.0
+Desconocido Magallanes,12,202026,0.0
+Desconocido SEREMI,0,202026,0.0
+Desconocido Arica y Parinacota,15,202027,0.0
+Desconocido Tarapaca,01,202027,15.0
+Desconocido Antofagasta,02,202027,26.0
+Desconocido Atacama,03,202027,2.0
+Desconocido Coquimbo,04,202027,9.0
+Desconocido Valparaiso,05,202027,45.0
+Desconocido Metropolitana,13,202027,293.0
+Desconocido O’Higgins,06,202027,2.0
+Desconocido Maule,07,202027,0.0
+Desconocido Nuble,16,202027,0.0
+Desconocido Biobio,08,202027,7.0
+Desconocido Araucania,09,202027,0.0
+Desconocido Los Rios,14,202027,0.0
+Desconocido Los Lagos,10,202027,4.0
+Desconocido Aysen,11,202027,0.0
+Desconocido Magallanes,12,202027,1.0
+Desconocido SEREMI,0,202027,0.0
+Desconocido Arica y Parinacota,15,202028,0.0
+Desconocido Tarapaca,01,202028,16.0
+Desconocido Antofagasta,02,202028,20.0
+Desconocido Atacama,03,202028,1.0
+Desconocido Coquimbo,04,202028,17.0
+Desconocido Valparaiso,05,202028,25.0
+Desconocido Metropolitana,13,202028,196.0
+Desconocido O’Higgins,06,202028,6.0
+Desconocido Maule,07,202028,0.0
+Desconocido Nuble,16,202028,1.0
+Desconocido Biobio,08,202028,8.0
+Desconocido Araucania,09,202028,0.0
+Desconocido Los Rios,14,202028,0.0
+Desconocido Los Lagos,10,202028,12.0
+Desconocido Aysen,11,202028,0.0
+Desconocido Magallanes,12,202028,0.0
+Desconocido SEREMI,0,202028,0.0
+Desconocido Arica y Parinacota,15,202029,1.0
+Desconocido Tarapaca,01,202029,33.0
+Desconocido Antofagasta,02,202029,21.0
+Desconocido Atacama,03,202029,3.0
+Desconocido Coquimbo,04,202029,12.0
+Desconocido Valparaiso,05,202029,22.0
+Desconocido Metropolitana,13,202029,105.0
+Desconocido O’Higgins,06,202029,2.0
+Desconocido Maule,07,202029,0.0
+Desconocido Nuble,16,202029,0.0
+Desconocido Biobio,08,202029,9.0
+Desconocido Araucania,09,202029,0.0
+Desconocido Los Rios,14,202029,0.0
+Desconocido Los Lagos,10,202029,4.0
+Desconocido Aysen,11,202029,0.0
+Desconocido Magallanes,12,202029,0.0
+Desconocido SEREMI,0,202029,0.0
+Desconocido Arica y Parinacota,15,202030,0.0
+Desconocido Tarapaca,01,202030,34.0
+Desconocido Antofagasta,02,202030,21.0
+Desconocido Atacama,03,202030,1.0
+Desconocido Coquimbo,04,202030,2.0
+Desconocido Valparaiso,05,202030,7.0
+Desconocido Metropolitana,13,202030,45.0
+Desconocido O’Higgins,06,202030,5.0
+Desconocido Maule,07,202030,0.0
+Desconocido Nuble,16,202030,0.0
+Desconocido Biobio,08,202030,10.0
+Desconocido Araucania,09,202030,0.0
+Desconocido Los Rios,14,202030,0.0
+Desconocido Los Lagos,10,202030,0.0
+Desconocido Aysen,11,202030,0.0
+Desconocido Magallanes,12,202030,1.0
+Desconocido SEREMI,0,202030,0.0
+Desconocido Arica y Parinacota,15,202031,1.0
+Desconocido Tarapaca,01,202031,17.0
+Desconocido Antofagasta,02,202031,26.0
+Desconocido Atacama,03,202031,0.0
+Desconocido Coquimbo,04,202031,8.0
+Desconocido Valparaiso,05,202031,9.0
+Desconocido Metropolitana,13,202031,45.0
+Desconocido O’Higgins,06,202031,0.0
+Desconocido Maule,07,202031,0.0
+Desconocido Nuble,16,202031,0.0
+Desconocido Biobio,08,202031,6.0
+Desconocido Araucania,09,202031,0.0
+Desconocido Los Rios,14,202031,0.0
+Desconocido Los Lagos,10,202031,0.0
+Desconocido Aysen,11,202031,0.0
+Desconocido Magallanes,12,202031,0.0
+Desconocido SEREMI,0,202031,0.0
+Desconocido Arica y Parinacota,15,202032,8.0
+Desconocido Tarapaca,01,202032,16.0
+Desconocido Antofagasta,02,202032,26.0
+Desconocido Atacama,03,202032,11.0
+Desconocido Coquimbo,04,202032,4.0
+Desconocido Valparaiso,05,202032,8.0
+Desconocido Metropolitana,13,202032,26.0
+Desconocido O’Higgins,06,202032,1.0
+Desconocido Maule,07,202032,0.0
+Desconocido Nuble,16,202032,0.0
+Desconocido Biobio,08,202032,3.0
+Desconocido Araucania,09,202032,0.0
+Desconocido Los Rios,14,202032,1.0
+Desconocido Los Lagos,10,202032,0.0
+Desconocido Aysen,11,202032,0.0
+Desconocido Magallanes,12,202032,0.0
+Desconocido SEREMI,0,202032,0.0
+Desconocido Arica y Parinacota,15,202033,0.0
+Desconocido Tarapaca,01,202033,13.0
+Desconocido Antofagasta,02,202033,13.0
+Desconocido Atacama,03,202033,2.0
+Desconocido Coquimbo,04,202033,2.0
+Desconocido Valparaiso,05,202033,5.0
+Desconocido Metropolitana,13,202033,20.0
+Desconocido O’Higgins,06,202033,0.0
+Desconocido Maule,07,202033,0.0
+Desconocido Nuble,16,202033,0.0
+Desconocido Biobio,08,202033,2.0
+Desconocido Araucania,09,202033,0.0
+Desconocido Los Rios,14,202033,0.0
+Desconocido Los Lagos,10,202033,0.0
+Desconocido Aysen,11,202033,0.0
+Desconocido Magallanes,12,202033,0.0
+Desconocido SEREMI,0,202033,0.0
+Desconocido Arica y Parinacota,15,202034,2.0
+Desconocido Tarapaca,01,202034,11.0
+Desconocido Antofagasta,02,202034,13.0
+Desconocido Atacama,03,202034,3.0
+Desconocido Coquimbo,04,202034,0.0
+Desconocido Valparaiso,05,202034,7.0
+Desconocido Metropolitana,13,202034,31.0
+Desconocido O’Higgins,06,202034,0.0
+Desconocido Maule,07,202034,1.0
+Desconocido Nuble,16,202034,1.0
+Desconocido Biobio,08,202034,5.0
+Desconocido Araucania,09,202034,0.0
+Desconocido Los Rios,14,202034,0.0
+Desconocido Los Lagos,10,202034,0.0
+Desconocido Aysen,11,202034,0.0
+Desconocido Magallanes,12,202034,5.0
+Desconocido SEREMI,0,202034,0.0
+Desconocido Arica y Parinacota,15,202035,0.0
+Desconocido Tarapaca,01,202035,13.0
+Desconocido Antofagasta,02,202035,9.0
+Desconocido Atacama,03,202035,1.0
+Desconocido Coquimbo,04,202035,0.0
+Desconocido Valparaiso,05,202035,14.0
+Desconocido Metropolitana,13,202035,30.0
+Desconocido O’Higgins,06,202035,4.0
+Desconocido Maule,07,202035,0.0
+Desconocido Nuble,16,202035,0.0
+Desconocido Biobio,08,202035,6.0
+Desconocido Araucania,09,202035,0.0
+Desconocido Los Rios,14,202035,0.0
+Desconocido Los Lagos,10,202035,1.0
+Desconocido Aysen,11,202035,0.0
+Desconocido Magallanes,12,202035,0.0
+Desconocido SEREMI,0,202035,0.0
+Desconocido Arica y Parinacota,15,202036,1.0
+Desconocido Tarapaca,01,202036,10.0
+Desconocido Antofagasta,02,202036,4.0
+Desconocido Atacama,03,202036,1.0
+Desconocido Coquimbo,04,202036,2.0
+Desconocido Valparaiso,05,202036,12.0
+Desconocido Metropolitana,13,202036,39.0
+Desconocido O’Higgins,06,202036,1.0
+Desconocido Maule,07,202036,0.0
+Desconocido Nuble,16,202036,0.0
+Desconocido Biobio,08,202036,1.0
+Desconocido Araucania,09,202036,1.0
+Desconocido Los Rios,14,202036,0.0
+Desconocido Los Lagos,10,202036,2.0
+Desconocido Aysen,11,202036,0.0
+Desconocido Magallanes,12,202036,5.0
+Desconocido SEREMI,0,202036,0.0
+Desconocido Arica y Parinacota,15,202037,2.0
+Desconocido Tarapaca,01,202037,15.0
+Desconocido Antofagasta,02,202037,8.0
+Desconocido Atacama,03,202037,0.0
+Desconocido Coquimbo,04,202037,2.0
+Desconocido Valparaiso,05,202037,11.0
+Desconocido Metropolitana,13,202037,32.0
+Desconocido O’Higgins,06,202037,2.0
+Desconocido Maule,07,202037,0.0
+Desconocido Nuble,16,202037,0.0
+Desconocido Biobio,08,202037,0.0
+Desconocido Araucania,09,202037,0.0
+Desconocido Los Rios,14,202037,0.0
+Desconocido Los Lagos,10,202037,1.0
+Desconocido Aysen,11,202037,0.0
+Desconocido Magallanes,12,202037,7.0
+Desconocido SEREMI,0,202037,0.0
+Desconocido Arica y Parinacota,15,202038,4.0
+Desconocido Tarapaca,01,202038,40.0
+Desconocido Antofagasta,02,202038,3.0
+Desconocido Atacama,03,202038,0.0
+Desconocido Coquimbo,04,202038,2.0
+Desconocido Valparaiso,05,202038,7.0
+Desconocido Metropolitana,13,202038,16.0
+Desconocido O’Higgins,06,202038,4.0
+Desconocido Maule,07,202038,0.0
+Desconocido Nuble,16,202038,0.0
+Desconocido Biobio,08,202038,1.0
+Desconocido Araucania,09,202038,0.0
+Desconocido Los Rios,14,202038,0.0
+Desconocido Los Lagos,10,202038,1.0
+Desconocido Aysen,11,202038,0.0
+Desconocido Magallanes,12,202038,4.0
+Desconocido SEREMI,0,202038,0.0
+Desconocido Arica y Parinacota,15,202039,3.0
+Desconocido Tarapaca,01,202039,64.0
+Desconocido Antofagasta,02,202039,5.0
+Desconocido Atacama,03,202039,2.0
+Desconocido Coquimbo,04,202039,1.0
+Desconocido Valparaiso,05,202039,9.0
+Desconocido Metropolitana,13,202039,43.0
+Desconocido O’Higgins,06,202039,3.0
+Desconocido Maule,07,202039,2.0
+Desconocido Nuble,16,202039,0.0
+Desconocido Biobio,08,202039,5.0
+Desconocido Araucania,09,202039,0.0
+Desconocido Los Rios,14,202039,0.0
+Desconocido Los Lagos,10,202039,1.0
+Desconocido Aysen,11,202039,0.0
+Desconocido Magallanes,12,202039,2.0
+Desconocido SEREMI,0,202039,0.0
+Desconocido Arica y Parinacota,15,202040,2.0
+Desconocido Tarapaca,01,202040,80.0
+Desconocido Antofagasta,02,202040,6.0
+Desconocido Atacama,03,202040,0.0
+Desconocido Coquimbo,04,202040,0.0
+Desconocido Valparaiso,05,202040,7.0
+Desconocido Metropolitana,13,202040,26.0
+Desconocido O’Higgins,06,202040,3.0
+Desconocido Maule,07,202040,0.0
+Desconocido Nuble,16,202040,0.0
+Desconocido Biobio,08,202040,1.0
+Desconocido Araucania,09,202040,0.0
+Desconocido Los Rios,14,202040,0.0
+Desconocido Los Lagos,10,202040,0.0
+Desconocido Aysen,11,202040,0.0
+Desconocido Magallanes,12,202040,0.0
+Desconocido SEREMI,0,202040,0.0
+Desconocido Arica y Parinacota,15,202041,2.0
+Desconocido Tarapaca,01,202041,85.0
+Desconocido Antofagasta,02,202041,10.0
+Desconocido Atacama,03,202041,0.0
+Desconocido Coquimbo,04,202041,0.0
+Desconocido Valparaiso,05,202041,7.0
+Desconocido Metropolitana,13,202041,30.0
+Desconocido O’Higgins,06,202041,0.0
+Desconocido Maule,07,202041,0.0
+Desconocido Nuble,16,202041,0.0
+Desconocido Biobio,08,202041,1.0
+Desconocido Araucania,09,202041,0.0
+Desconocido Los Rios,14,202041,0.0
+Desconocido Los Lagos,10,202041,0.0
+Desconocido Aysen,11,202041,0.0
+Desconocido Magallanes,12,202041,1.0
+Desconocido SEREMI,0,202041,0.0
+Desconocido Arica y Parinacota,15,202042,0.0
+Desconocido Tarapaca,01,202042,26.0
+Desconocido Antofagasta,02,202042,1.0
+Desconocido Atacama,03,202042,2.0
+Desconocido Coquimbo,04,202042,2.0
+Desconocido Valparaiso,05,202042,2.0
+Desconocido Metropolitana,13,202042,20.0
+Desconocido O’Higgins,06,202042,0.0
+Desconocido Maule,07,202042,0.0
+Desconocido Nuble,16,202042,0.0
+Desconocido Biobio,08,202042,0.0
+Desconocido Araucania,09,202042,0.0
+Desconocido Los Rios,14,202042,0.0
+Desconocido Los Lagos,10,202042,2.0
+Desconocido Aysen,11,202042,0.0
+Desconocido Magallanes,12,202042,2.0
+Desconocido SEREMI,0,202042,0.0
+Desconocido Arica y Parinacota,15,202043,0.0
+Desconocido Tarapaca,01,202043,15.0
+Desconocido Antofagasta,02,202043,7.0
+Desconocido Atacama,03,202043,0.0
+Desconocido Coquimbo,04,202043,0.0
+Desconocido Valparaiso,05,202043,1.0
+Desconocido Metropolitana,13,202043,19.0
+Desconocido O’Higgins,06,202043,0.0
+Desconocido Maule,07,202043,2.0
+Desconocido Nuble,16,202043,0.0
+Desconocido Biobio,08,202043,7.0
+Desconocido Araucania,09,202043,0.0
+Desconocido Los Rios,14,202043,0.0
+Desconocido Los Lagos,10,202043,0.0
+Desconocido Aysen,11,202043,0.0
+Desconocido Magallanes,12,202043,0.0
+Desconocido SEREMI,0,202043,0.0
+Desconocido Arica y Parinacota,15,202044,3.0
+Desconocido Tarapaca,01,202044,10.0
+Desconocido Antofagasta,02,202044,9.0
+Desconocido Atacama,03,202044,1.0
+Desconocido Coquimbo,04,202044,0.0
+Desconocido Valparaiso,05,202044,0.0
+Desconocido Metropolitana,13,202044,19.0
+Desconocido O’Higgins,06,202044,0.0
+Desconocido Maule,07,202044,0.0
+Desconocido Nuble,16,202044,0.0
+Desconocido Biobio,08,202044,1.0
+Desconocido Araucania,09,202044,2.0
+Desconocido Los Rios,14,202044,0.0
+Desconocido Los Lagos,10,202044,0.0
+Desconocido Aysen,11,202044,0.0
+Desconocido Magallanes,12,202044,0.0
+Desconocido SEREMI,0,202044,0.0
+Desconocido Arica y Parinacota,15,202045,1.0
+Desconocido Tarapaca,01,202045,13.0
+Desconocido Antofagasta,02,202045,4.0
+Desconocido Atacama,03,202045,0.0
+Desconocido Coquimbo,04,202045,0.0
+Desconocido Valparaiso,05,202045,6.0
+Desconocido Metropolitana,13,202045,32.0
+Desconocido O’Higgins,06,202045,1.0
+Desconocido Maule,07,202045,1.0
+Desconocido Nuble,16,202045,0.0
+Desconocido Biobio,08,202045,3.0
+Desconocido Araucania,09,202045,0.0
+Desconocido Los Rios,14,202045,0.0
+Desconocido Los Lagos,10,202045,0.0
+Desconocido Aysen,11,202045,0.0
+Desconocido Magallanes,12,202045,0.0
+Desconocido SEREMI,0,202045,0.0
+Desconocido Arica y Parinacota,15,202046,2.0
+Desconocido Tarapaca,01,202046,5.0
+Desconocido Antofagasta,02,202046,11.0
+Desconocido Atacama,03,202046,2.0
+Desconocido Coquimbo,04,202046,0.0
+Desconocido Valparaiso,05,202046,1.0
+Desconocido Metropolitana,13,202046,22.0
+Desconocido O’Higgins,06,202046,4.0
+Desconocido Maule,07,202046,0.0
+Desconocido Nuble,16,202046,0.0
+Desconocido Biobio,08,202046,5.0
+Desconocido Araucania,09,202046,0.0
+Desconocido Los Rios,14,202046,0.0
+Desconocido Los Lagos,10,202046,1.0
+Desconocido Aysen,11,202046,0.0
+Desconocido Magallanes,12,202046,2.0
+Desconocido SEREMI,0,202046,0.0
+Desconocido Arica y Parinacota,15,202047,1.0
+Desconocido Tarapaca,01,202047,5.0
+Desconocido Antofagasta,02,202047,4.0
+Desconocido Atacama,03,202047,1.0
+Desconocido Coquimbo,04,202047,1.0
+Desconocido Valparaiso,05,202047,1.0
+Desconocido Metropolitana,13,202047,25.0
+Desconocido O’Higgins,06,202047,0.0
+Desconocido Maule,07,202047,2.0
+Desconocido Nuble,16,202047,1.0
+Desconocido Biobio,08,202047,10.0
+Desconocido Araucania,09,202047,1.0
+Desconocido Los Rios,14,202047,0.0
+Desconocido Los Lagos,10,202047,0.0
+Desconocido Aysen,11,202047,0.0
+Desconocido Magallanes,12,202047,0.0
+Desconocido SEREMI,0,202047,0.0
+Desconocido Arica y Parinacota,15,202048,5.0
+Desconocido Tarapaca,01,202048,3.0
+Desconocido Antofagasta,02,202048,0.0
+Desconocido Atacama,03,202048,0.0
+Desconocido Coquimbo,04,202048,4.0
+Desconocido Valparaiso,05,202048,3.0
+Desconocido Metropolitana,13,202048,12.0
+Desconocido O’Higgins,06,202048,2.0
+Desconocido Maule,07,202048,0.0
+Desconocido Nuble,16,202048,0.0
+Desconocido Biobio,08,202048,2.0
+Desconocido Araucania,09,202048,0.0
+Desconocido Los Rios,14,202048,0.0
+Desconocido Los Lagos,10,202048,0.0
+Desconocido Aysen,11,202048,0.0
+Desconocido Magallanes,12,202048,4.0
+Desconocido SEREMI,0,202048,0.0
+Desconocido Arica y Parinacota,15,202049,0.0
+Desconocido Tarapaca,01,202049,2.0
+Desconocido Antofagasta,02,202049,3.0
+Desconocido Atacama,03,202049,0.0
+Desconocido Coquimbo,04,202049,0.0
+Desconocido Valparaiso,05,202049,8.0
+Desconocido Metropolitana,13,202049,37.0
+Desconocido O’Higgins,06,202049,2.0
+Desconocido Maule,07,202049,2.0
+Desconocido Nuble,16,202049,0.0
+Desconocido Biobio,08,202049,7.0
+Desconocido Araucania,09,202049,0.0
+Desconocido Los Rios,14,202049,3.0
+Desconocido Los Lagos,10,202049,1.0
+Desconocido Aysen,11,202049,0.0
+Desconocido Magallanes,12,202049,0.0
+Desconocido SEREMI,0,202049,0.0
+Desconocido Arica y Parinacota,15,202050,4.0
+Desconocido Tarapaca,01,202050,2.0
+Desconocido Antofagasta,02,202050,1.0
+Desconocido Atacama,03,202050,0.0
+Desconocido Coquimbo,04,202050,0.0
+Desconocido Valparaiso,05,202050,4.0
+Desconocido Metropolitana,13,202050,39.0
+Desconocido O’Higgins,06,202050,0.0
+Desconocido Maule,07,202050,1.0
+Desconocido Nuble,16,202050,1.0
+Desconocido Biobio,08,202050,3.0
+Desconocido Araucania,09,202050,1.0
+Desconocido Los Rios,14,202050,0.0
+Desconocido Los Lagos,10,202050,2.0
+Desconocido Aysen,11,202050,0.0
+Desconocido Magallanes,12,202050,1.0
+Desconocido SEREMI,0,202050,0.0
+Desconocido Arica y Parinacota,15,202051,0.0
+Desconocido Tarapaca,01,202051,2.0
+Desconocido Antofagasta,02,202051,4.0
+Desconocido Atacama,03,202051,2.0
+Desconocido Coquimbo,04,202051,2.0
+Desconocido Valparaiso,05,202051,4.0
+Desconocido Metropolitana,13,202051,72.0
+Desconocido O’Higgins,06,202051,2.0
+Desconocido Maule,07,202051,3.0
+Desconocido Nuble,16,202051,0.0
+Desconocido Biobio,08,202051,4.0
+Desconocido Araucania,09,202051,0.0
+Desconocido Los Rios,14,202051,0.0
+Desconocido Los Lagos,10,202051,0.0
+Desconocido Aysen,11,202051,0.0
+Desconocido Magallanes,12,202051,1.0
+Desconocido SEREMI,0,202051,0.0
+Desconocido Arica y Parinacota,15,202052,29.0
+Desconocido Tarapaca,01,202052,4.0
+Desconocido Antofagasta,02,202052,1.0
+Desconocido Atacama,03,202052,0.0
+Desconocido Coquimbo,04,202052,1.0
+Desconocido Valparaiso,05,202052,17.0
+Desconocido Metropolitana,13,202052,58.0
+Desconocido O’Higgins,06,202052,2.0
+Desconocido Maule,07,202052,1.0
+Desconocido Nuble,16,202052,0.0
+Desconocido Biobio,08,202052,2.0
+Desconocido Araucania,09,202052,1.0
+Desconocido Los Rios,14,202052,0.0
+Desconocido Los Lagos,10,202052,1.0
+Desconocido Aysen,11,202052,0.0
+Desconocido Magallanes,12,202052,2.0
+Desconocido SEREMI,0,202052,0.0
+Desconocido Arica y Parinacota,15,202053,7.0
+Desconocido Tarapaca,01,202053,2.0
+Desconocido Antofagasta,02,202053,8.0
+Desconocido Atacama,03,202053,0.0
+Desconocido Coquimbo,04,202053,3.0
+Desconocido Valparaiso,05,202053,42.0
+Desconocido Metropolitana,13,202053,121.0
+Desconocido O’Higgins,06,202053,7.0
+Desconocido Maule,07,202053,2.0
+Desconocido Nuble,16,202053,0.0
+Desconocido Biobio,08,202053,5.0
+Desconocido Araucania,09,202053,2.0
+Desconocido Los Rios,14,202053,0.0
+Desconocido Los Lagos,10,202053,2.0
+Desconocido Aysen,11,202053,0.0
+Desconocido Magallanes,12,202053,1.0
+Desconocido SEREMI,0,202053,9.0
+Desconocido Arica y Parinacota,15,202101,4.0
+Desconocido Tarapaca,01,202101,4.0
+Desconocido Antofagasta,02,202101,5.0
+Desconocido Atacama,03,202101,4.0
+Desconocido Coquimbo,04,202101,5.0
+Desconocido Valparaiso,05,202101,42.0
+Desconocido Metropolitana,13,202101,111.0
+Desconocido O’Higgins,06,202101,6.0
+Desconocido Maule,07,202101,7.0
+Desconocido Nuble,16,202101,5.0
+Desconocido Biobio,08,202101,11.0
+Desconocido Araucania,09,202101,6.0
+Desconocido Los Rios,14,202101,4.0
+Desconocido Los Lagos,10,202101,11.0
+Desconocido Aysen,11,202101,0.0
+Desconocido Magallanes,12,202101,0.0
+Desconocido SEREMI,0,202101,0.0
