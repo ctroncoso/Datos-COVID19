@@ -152,11 +152,12 @@ def prod5(fte, producto):
         if i >= fecha_de_corte:
             # print(str(i))
             # Casos activos por FIS parten el 2 de Junio por definicion y corresponden a los casos activos del reporte diario
-            df_output_file.loc[i, 'Casos activos por FIS'] = df_output_file.loc[i, 'Casos activos']
+            df_output_file.loc[i, 'Casos activos'] = df_output_file.loc[i, 'Casos activos confirmados']
+            df_output_file.loc[i, 'Casos activos por FIS'] = df_output_file.loc[i, 'Casos activos confirmados']
             # Recuperados FIS se calculan restando fallecidos y activos FIS
             df_output_file.loc[i, 'Casos recuperados por FIS'] = \
                 df_output_file.loc[i, 'Casos totales'] - \
-                df_output_file.loc[i, 'Casos activos'] - \
+                df_output_file.loc[i, 'Casos activos confirmados'] - \
                 df_output_file.loc[i, 'Fallecidos']
             # Falta casos activos y recuperados por FD: ocupar numeros antiguos para calcular
             fourteen_days = timedelta(days=14)
@@ -233,7 +234,7 @@ def prod5(fte, producto):
     df_std.to_csv(producto.replace('.csv', '_std.csv'), index=False)
 
 
-def prod3_13_14_26_27_47(fte, fte2, ft3):
+def prod3_13_14_26_27_47_75(fte, fte2, ft3):
     # ------------------ input directory: CasosProbables. In Reporte Diario since 2020-06-21
 
     onlyfiles = [f for f in listdir(fte2) if isfile(join(fte2, f))]
@@ -579,6 +580,74 @@ def prod3_13_14_26_27_47(fte, fte2, ft3):
                      value_name='Media movil')
     df_std.to_csv('../output/producto47/MediaMovil_std.csv', index=False)
 
+    #### PRODUCTO 75
+
+    ## Casos Nuevos confirmados
+
+    # pop = pd.read_csv(ft3)
+    pop2 = pd.read_csv(ft3)
+    aux = pop2.groupby(['Region', 'Codigo region'])['Poblacion'].sum()
+    aux = aux.reset_index()
+    regionName(aux)
+
+    Total_row = {'Region': 'Total', 'Codigo region': np.NaN, 'Poblacion': aux['Poblacion'].sum()}
+    aux = aux.append(Total_row, ignore_index=True)
+    pop = aux
+
+    mediamovil = pd.merge(pop, cumulativoCasosNuevos, on='Region', how='outer')
+
+    # print(mediamovil.head(20).to_string())
+    df_t = mediamovil.T[3:].rolling(7).mean()
+    mediamovil = mediamovil.T[0:1]
+    columnas = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    # for i in columnas:
+    for i in df_t.columns:
+        df_t[i] = df_t[i].round(1)
+
+    df = mediamovil.append(df_t, ignore_index=False, sort=False)
+    df.T.to_csv('../output/producto75/MediaMovil_casos_nuevos.csv', index=False)
+    df.to_csv('../output/producto75/MediaMovil_casos_nuevos_T.csv', header=False)
+    df_t = df.T
+
+    identifiers = ['Region']
+    variables = [x for x in df_t.columns if x not in identifiers]
+    df_std = pd.melt(df.T, id_vars=identifiers, value_vars=variables, var_name='Fecha',
+                     value_name='Media movil')
+    df_std.to_csv('../output/producto75/MediaMovil_casos_nuevos_std.csv', index=False)
+
+    ## Casos Activos confirmados y probables
+
+    # pop = pd.read_csv(ft3)
+    pop2 = pd.read_csv(ft3)
+    aux = pop2.groupby(['Region', 'Codigo region'])['Poblacion'].sum()
+    aux = aux.reset_index()
+    regionName(aux)
+
+    Total_row = {'Region': 'Total', 'Codigo region': np.NaN, 'Poblacion': aux['Poblacion'].sum()}
+    aux = aux.append(Total_row, ignore_index=True)
+    pop = aux
+
+    mediamovil = pd.merge(pop, casosActivosConfirmados, on='Region', how='outer')
+    mediamovil_probables = pd.merge(pop, casosActivosProbables, on='Region', how='outer')
+
+    # print(mediamovil.head(20).to_string())
+    df_t = mediamovil.T[3:].rolling(7).mean() + mediamovil_probables.T[3:].rolling(7).mean()
+    mediamovil = mediamovil.T[0:1]
+    columnas = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    # for i in columnas:
+    for i in df_t.columns:
+        df_t[i] = df_t[i].round(1)
+
+    df = mediamovil.append(df_t, ignore_index=False, sort=False)
+    df.T.to_csv('../output/producto75/MediaMovil_casos_activos.csv', index=False)
+    df.to_csv('../output/producto75/MediaMovil_casos_activos_T.csv', header=False)
+    df_t = df.T
+
+    identifiers = ['Region']
+    variables = [x for x in df_t.columns if x not in identifiers]
+    df_std = pd.melt(df.T, id_vars=identifiers, value_vars=variables, var_name='Fecha',
+                     value_name='Media movil')
+    df_std.to_csv('../output/producto75/MediaMovil_casos_activos_std.csv', index=False)
 
 def prod7_8(fte, producto):
     df = pd.read_csv(fte, dtype={'Codigo region': object})
@@ -719,9 +788,9 @@ if __name__ == '__main__':
     prod4('../input/ReporteDiario/CasosConfirmados.csv', '../output/producto4/')
     prod5('../input/ReporteDiario/', '../output/producto5/TotalesNacionales.csv')
 
-    print('Generando productos 3, 13, 14, 26 y 27')
-    prod3_13_14_26_27_47('../output/producto4/', '../input/ReporteDiario/CasosProbables/',
-                          '../input/Otros/InformacionComunas.csv')
+    print('Generando productos 3, 13, 14, 26, 27, 47, 75')
+    prod3_13_14_26_27_47_75('../output/producto4/', '../input/ReporteDiario/CasosProbables/',
+                            '../input/Otros/InformacionComunas.csv')
 
     print('Generando producto 11')
     print('Generando producto 11: bulk_producto4.py hay un bug, debes generarlo a mano')
