@@ -89,8 +89,7 @@ Ver http://www.minciencia.gob.cl/COVID19 para más información, incluyendo acta
 
 [Data Product 42 - Viajes diarios por comuna en transporte público](output/producto42): Este producto da cuenta de la cantidad de viajes por comuna en transporte público. Los datos son provistos por el Directorio de Transporte Público Metropolitano en trabajo conjunto con el Instituto de Sistemas Complejos de Ingeniería [Ver más](output/producto42)
 
-[Data Product 43 - Datos históricos de calidad del aire por hora](output/producto43): Descripción
-Cada archivo entrega los datos de la emisión de un contaminante durante un año con frecuencia horaria junto con la información de las estaciones de medición. Existe un archivo para cada contaminante y para cada año, desde el 2010 a a 2019. [Ver más](output/producto43)
+[Data Product 43 - Datos  de calidad del aire por hora](output/producto43): Cada archivo entrega los datos de la emisión de contaminantes desde el 2010 a hoy, para cada hora, en todas las estaciones operativas del Sistema de Información Nacional de Calidad del Aire (SINCA). Incluye el monitoreo de Dióxido de azufre (SO2) en partes por billón (ppb), Dióxido de Nitrógeno (NO2) en partes por billón (ppb), Monóxido de Carbono (CO) en partes por millón (ppm), Ozono (O3) en partes por billón (ppb), Material Particulado MP 10 en microgramos por metro cúbico normalizado (μg/m3N) y  Material Particulado MP 2.5 en microgramo por metro cúbico (μg/m3). [Ver más](output/producto43)
 
 [Data Product 44 - Evolución semanal de egresos hospitalarios pacientes COVID-19](output/producto44): Este set de archivos da cuenta del número de egresos de pacientes que han sido ingresados en el sistema integrado COVID-19. Se considera el número total de egresos por semana. Este archivo concatena la historia de los reportes diarios publicados por el Ministerio de Salud del país. [Ver más](output/producto44)
 
@@ -100,7 +99,7 @@ Cada archivo entrega los datos de la emisión de un contaminante durante un año
 
 [Data Product 47 - Media Movil de Casos Nuevos por 100,000Hab.](output/producto47): Este producto da cuenta de la media movil semanal de casos nuevos confirmados por region, normalizado por cada 100,000 habitantes. [Ver más](output/producto47)
 
-[Data Product 48 - Encuesta diaria realidad nacional medicina intensiva(SOCHIMIno e)](output/producto48): Este producto da cuenta del número de camas ocupadas por servicio de salud a lo largo del país, considerando los tipos de cama. Estos valores son levantados y reportados de manera diaria por los miembros de la SOCHIMI y la Universidad Finis Terrae, por fecha y servicio de salud, y disponibilizados por el Laboratorio de Biología Computacional de la Fundación Ciencia & Vida. [Ver más](output/producto48)
+[Data Product 48 - Encuesta diaria realidad nacional medicina intensiva(SOCHIMI)](output/producto48): Este producto da cuenta del número de camas ocupadas por servicio de salud a lo largo del país, considerando los tipos de cama. Estos valores son levantados y reportados de manera diaria por los miembros de la SOCHIMI y la Universidad Finis Terrae, por fecha y servicio de salud, y disponibilizados por el Laboratorio de Biología Computacional de la Fundación Ciencia & Vida. [Ver más](output/producto48)
 
 [Data Product 49 - Positividad diaria y media móvil de exámenes PCR informados por día](output/producto49): Este producto da cuenta del número total de exámenes PCR realizados a nivel nacional, el número de casos nuevos totales, el resultado del cociente entre casos nuevos totales y exámenes realizados y el promedio móvil de los últimos 7 días de esa cantidad. [Ver más](output/producto49)
 
@@ -212,7 +211,7 @@ utilizando los mismos scripts, pero manualmente.
    * [JAC](src/jac.py) 
    ![Actualiza_productos_de_JAC](https://github.com/MinCiencia/Datos-COVID19/workflows/Actualiza_productos_de_JAC/badge.svg)
    * [MMA](src/MMA.py)
-   ![Actualiza_productos_de_MMA](https://github.com/MinCiencia/Datos-COVID19/workflows/Actualiza_productos_de_MMA/badge.svg)
+   ![Actualiza_productos_de_MMA_MP](https://github.com/MinCiencia/Datos-COVID19/workflows/Actualiza_productos_de_MMA_MP/badge.svg)
    * [Defunciones DEIS](src/distribucionDEIS.py) 
    ![Actualiza_productos_de_defunciones_DEIS](https://github.com/MinCiencia/Datos-COVID19/workflows/Actualiza_productos_de_defunciones_DEIS/badge.svg)
    * [SOCHIMI](src/sochimi.py)

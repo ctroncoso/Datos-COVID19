@@ -1,4 +1,4 @@
-# DP 34 - Datos históricos de calidad del aire por hora: Descripción
+# DP 34 - Datos de calidad del aire por hora: Descripción
 
 Cada archivo entrega los datos de la emisión de un contaminante durante un año con frecuencia horaria junto con la información de las estaciones de medición. Existe un archivo para cada contaminante y para cada año.
 
@@ -18,7 +18,7 @@ Los datos fueron entregados por el Sistema Nacional de Calidad del Aire del Mini
 
 # Frecuencia de Actualización
 
-Esta información es histórica, por lo que no se actualizará.
+Esta información see actualzia 1 vez al día para los MP y 1 vez a la semana para los gases.
 
 # Notas Aclaratorias
 

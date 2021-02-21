@@ -96,7 +96,7 @@ def prod43_no_header(fte, prod, year='2020'):
             df.to_csv(prod + each_particle + '-' + year + '_std.csv', index=False, header=False)
 
 
-def prod43_from_mma_api(usr, password, auth_url, url, prod):
+def prod43_from_mma_api(usr, password, auth_url, url, prod,gas):
     '''
     Cosultamos la API una vez cada semana, y nos traemos los ultimos 2 dias para sobreescribir.
     Los ultimos datos estan corregidos
@@ -143,13 +143,19 @@ def prod43_from_mma_api(usr, password, auth_url, url, prod):
     # PPPP : parámetro (código Airviro)
     # LLL: Instancia, variación de serie de tiempo. Por ejemplo en las meteorológicas se usa para la altura.
     # Pero sirve para diferenciar series de tiempo según se requiera
-    particulas = {'MP10': 'MPM10',
-                  'MP2.5': 'MPM25',
-                  'SO2': 'M0001',
-                  'O3': 'M0008',
-                  'NO2': 'M0003',
-                  'CO': 'M0004'
-                  }
+    if gas == 'MP':
+        particulas = {'MP10': 'MPM10',
+                      'MP2.5': 'MPM25',
+                      }
+    else:
+        particulas = {'SO2': 'M0001',
+                      'O3': 'M0008',
+                      'NO2': 'M0003',
+                      'CO': 'M0004'
+                      }
+        from_date = to_date - dt.timedelta(days=30)
+        from_year = from_date.year
+        a_week_ago_unix = round(time.mktime(from_date.timetuple()))
     for each_particula in particulas:
         data_particula = []
         print('\nUpdating ' + each_particula)
@@ -157,7 +163,7 @@ def prod43_from_mma_api(usr, password, auth_url, url, prod):
             # debemos consultar VAL, respondio Marcelo Corral
             api_call = url + '/' + estaciones.loc[index, 'Key'] + '+' + particulas[each_particula] + 'VAL'
             print("Querying " + estaciones.loc[index, 'Nombre estacion'] + ' to ' + api_call)
-            response = s.get(api_call, timeout=15)
+            response = s.get(api_call, timeout=60)
             if response.status_code == 200:
                 # for k in response.json():
                 #     print(k)
@@ -269,6 +275,7 @@ def prod43_from_mma_api(usr, password, auth_url, url, prod):
 
             df_file1.to_csv(file_from_year, index=False)
 
+            #has to manage case in which file does not exist
 
             file_to_year = prod + '/' + each_particula + '-' + str(to_year) + '_std.csv'
             print('Appending to ' + file_to_year)
@@ -300,7 +307,7 @@ if __name__ == '__main__':
 
     else:
         #prod43_no_header('../input/MMA/', '../output/producto43/')
-        if len(sys.argv) == 3:
+        if len(sys.argv) == 4:
             auth_url ='https://sinca.mma.gob.cl/api/auth.cgi'
             url = 'https://sinca.mma.gob.cl/api/domain/SMA/timeserie'
-            prod43_from_mma_api(sys.argv[1], sys.argv[2], auth_url, url, '../output/producto43')
+            prod43_from_mma_api(sys.argv[1], sys.argv[2], auth_url, url, '../output/producto43',sys.argv[3])

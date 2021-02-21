@@ -10,7 +10,7 @@ on:
 #        paths: 'input/ReporteDiario/*.csv'
 
     schedule:
-      - cron:  '7 1 * * *'
+      - cron:  '7 1-3 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -39,7 +39,10 @@ jobs:
     - name: generate products from Reporte Diario
       run: |
           cd src
-          python vacunacion.py
+          python vacunacion.py &&\
+          python tweet.py ${{ secrets.TWITTER_API_KEY }} ${{ secrets.TWITTER_API_SECRET }}  \
+                      ${{ secrets.TWITTER_ACCESS_TOKEN }}  ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }} \
+                      "Actualicé los datos que dan cuenta del avance en la campaña de vacunación de hoy 😘💫, gracias a la APS y al equipo de la División de Planificación Sanitaria del @ministeriosalud. Mira específicamente qué actualicé en la imagen, y clónate el github https://github.com/MinCiencia/Datos-COVID19"
 
     - uses: stefanzweifel/git-auto-commit-action@v4.1.1
       with:
